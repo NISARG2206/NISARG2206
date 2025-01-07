@@ -14,14 +14,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ## 🌟 Featured Projects
-- **[Zoo Chatbot Ticketing System]** - A chatbot for zoo ticketing with mapping and navigation.
-- **[Face Recognition with OpenCV]** - A Python project for real-time face recognition.
+- **[Chatbot Based Ticketing System]** - A chatbot for zoo ticketing with mapping and navigation.
 
 ## 📊 GitHub Stats
 ![Nisarg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NISARG2206&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NISARG2206&layout=compact&theme=radical)
 
-## 🌐 Connect with Me
+## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-patel-682a182b5)
 
 
