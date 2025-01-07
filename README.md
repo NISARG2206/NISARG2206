@@ -27,7 +27,7 @@
 
 
 ---
-> *"NOTHING IS PERFECT IN THIS WORLD" – Me*
+> *"NO ONE IS PERFECT IN THIS WORLD" – Me*
 
 
 
