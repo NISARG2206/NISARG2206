@@ -14,8 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ## 🌟 Featured Projects
-- **[Zoo Chatbot Ticketing System](https://github.com/your-repo-link)** - A chatbot for zoo ticketing with mapping and navigation.
-- **[Face Recognition with OpenCV](https://github.com/your-repo-link)** - A Python project for real-time face recognition.
+- **[Zoo Chatbot Ticketing System]** - A chatbot for zoo ticketing with mapping and navigation.
+- **[Face Recognition with OpenCV]** - A Python project for real-time face recognition.
 
 ## 📊 GitHub Stats
 ![Nisarg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NISARG2206&show_icons=true&theme=radical)
