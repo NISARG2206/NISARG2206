@@ -27,7 +27,7 @@
 
 
 ---
-> *"Learning never exhausts the mind." – Leonardo da Vinci*
+> *"NOTHING IS PERFECT IN THIS WORLD" – Me*
 
 
 
