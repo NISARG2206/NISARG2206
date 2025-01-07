@@ -22,7 +22,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NISARG2206&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/nisarg-patel-682a182b5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-patel-682a182b5)
+
 
 
 ---
