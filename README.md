@@ -3,8 +3,8 @@
 
 ## 🚀 About Me
 - 🎓 Computer Engineering student (4th Semester)
-- 💡 Exploring Operating Systems and Processes
-- 🧑‍💻 Building a **Zoo Chatbot Ticketing System** ([VisiTICKETS](https://github.com/your-repo-link))
+- 💡 Exploring Operating Systems,Processes and full stack development
+
 
 ## 🛠️ Skills & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
