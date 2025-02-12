@@ -13,6 +13,19 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+## 🚀 GitHub Stats  
+
+<div align="center">
+  
+  <a href="https://github.com/NISARG2206">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NISARG2206&show_icons=true&theme=radical&count_private=true" alt="Nisarg's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/NISARG2206">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NISARG2206&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+  
+</div>
 
 
 ## 🔗 Connect with Me
