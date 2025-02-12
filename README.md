@@ -13,8 +13,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## 🌟 Featured Projects
-- **[Chatbot Based Ticketing System]** - A chatbot for zoo ticketing with mapping and navigation.
 
 ## 📊 GitHub Stats
 ![Nisarg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NISARG2206&show_icons=true&theme=radical)
