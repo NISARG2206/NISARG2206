@@ -14,9 +14,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
-## 📊 GitHub Stats
-![Nisarg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NISARG2206&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NISARG2206&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-patel-682a182b5)
