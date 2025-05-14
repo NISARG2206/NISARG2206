@@ -1,15 +1,14 @@
 # 👋 Hey there, I'm **Nisarg Patel**!
 
-> A passionate **Computer Engineering student** focused on exploring **Operating Systems**, **Processes**, and **Full Stack Development**.  
-> Currently building cool things with **Java**, **JavaScript**, **Node.js**, and **MongoDB**. I also enjoy contributing to **Hackathons** and **Open Source Projects**. 😄
+> A passionate **Computer Engineering student** focused on exploring **Full Stack Development**.  
+> Currently building cool things with **Java**. I also enjoy contributing to **Hackathons** and **Open Source Projects**. 😄
 
 ---
 
 ## 🚀 **About Me**
 - 🎓 **Student** at [Computer Engineering](https://www.linkedin.com/school/xyz-university/)
-- 💡 Enthusiast of **AI**, **Full Stack Development**, and **Machine Learning**
-- 🎮 Free Fire eSports player
-- 📝 Currently learning **Advanced Java**, **Operating Systems**, and **Optimization Techniques**
+- 💡 Enthusiast of **AI**, **Full Stack Development**
+- 📝 Currently learning **Advanced Java**
 - 🌱 Actively building personal projects and improving coding skills
 
 ---
@@ -19,13 +18,11 @@
 ### Languages & Frameworks
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
