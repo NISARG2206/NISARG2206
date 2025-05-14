@@ -59,7 +59,7 @@
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-patel-682a182b5)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/NISARG2206)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?logo=google-chrome&logoColor=white)](nisarg2206.github.io)
 
 ---
 
