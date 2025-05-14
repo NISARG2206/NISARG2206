@@ -2,7 +2,7 @@
 - # Hi there, I'm Nisarg! 👋 
 
 ## 🚀 About Me
-- 🎓 Computer Engineering student (4th Semester)
+- 🎓 Computer Engineering student (5th Semester)
 - 💡 Exploring Operating Systems,Processes and full stack development
 
 
