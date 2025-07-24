@@ -40,24 +40,7 @@
 
 ---
 
-## 💻 **Projects I've Worked On**
 
-### 🔐 **Real-Time Chat Application**  
-- **Tech Stack**: Node.js, WebSocket  
-- A real-time chat application for seamless messaging experience.  
-[Check it out on GitHub](https://github.com/NISARG2206/smart-india-hackathon.git)
-
-### 🛒 **Amazon Clone**  
-- **Tech Stack**: HTML, CSS, JavaScript  
-- A responsive portfolio website inspired by Amazon.  
-[Explore the code here](https://github.com/NISARG2206/Amazon-Clone)
-
-### 🎫 **VeasyTickets App**  
-- **Tech Stack**: Node.js, MongoDB, Express  
-- A smart ticketing system for seamless event management.  
-[View the project on GitHub](https://github.com/NISARG2206/TicketHub)
-
----
 
 ## 🔗 **Connect with Me**
 - [💼 LinkedIn](https://www.linkedin.com/in/nisarg-patel-682a182b5)
