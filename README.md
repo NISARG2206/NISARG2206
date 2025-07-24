@@ -45,7 +45,7 @@
 ## 🔗 **Connect with Me**
 - [💼 LinkedIn](https://www.linkedin.com/in/nisarg-patel-682a182b5)
 - [🐙 GitHub](https://github.com/NISARG2206)
-- [🌐 Portfolio](https://nisarg2206.github.io)
+
 
 ---
 
