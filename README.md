@@ -72,18 +72,17 @@
 ## 🧩 **Projects I'm Proud Of**
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🎟️ **VisiTICKETS** | Chatbot-based zoo/museum ticketing system with 360° view and navigation. | HTML, CSS, JS, Python, OpenCV |
 | 🚗 **Vorsprung Motorworks** | Car dealership management system for buying, servicing, and valuation. | Java, MySQL, Spring Boot |
-| 🌍 **Carbon Footprint Tracker (IoT)** | Tracks and visualizes personal carbon emissions using IoT sensors. | IoT, Python, Firebase |
+
 
 > 🧠 *You can find all my projects [here](https://github.com/NISARG2206?tab=repositories)*
 
 ---
 
 ## 🧑‍🏫 **Learning Journey**
-- 🔸 Mastering **Advanced Java** & **Spring Boot**
-- 🔸 Practicing **DSA in Java**
-- 🔸 Exploring **Frontend Frameworks (React, Bootstrap)**
+- 🔸 Mastering **Advanced Java**
+- 🔸 Practicing **DSA**
+- 🔸 Exploring **Frontend Frameworks**
 - 🔸 Building **Professional Full Stack Projects**
 
 ---
