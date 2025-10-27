@@ -1,21 +1,21 @@
 <!-- 🌟 Simple & Attractive GitHub Profile README for Nisarg Patel -->
 
 <h1 align="center">👋 Hey there, I'm <a href="https://www.linkedin.com/in/nisarg-patel-682a182b5" target="_blank">Nisarg Patel</a></h1>
-<h3 align="center">💻 Computer Engineering Student | Java & Web Developer</h3>
+<h3 align="center">💻 Computer Engineering Student </h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Passionate+Computer+Engineering+Student;Full+Stack+Developer+in+Making;Java+%7C+HTML+%7C+CSS+%7C+MySQL+%7C+JS;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Passionate+Computer+Engineering+Student;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 🎓 I'm a **Computer Engineering student** passionate about software and web development.  
-💡 Skilled in **Java**, **Web Technologies**, and **Database Management**.  
+💡 Skilling in **Java**, **Web Technologies**, and **Database Management**.  
 🚀 Currently building real-world projects to improve my development skills.  
-🌱 Focused on becoming a **Full Stack Developer** and contributing to open-source projects.  
+ 
 
 ---
 
@@ -42,7 +42,7 @@
 ### **Vorsprung Motorworks**
 > A complete **Car Dealership and Service Management System**  
 > 💡 Handles vehicle selling, servicing, and valuation efficiently.  
-> 🧠 Built with **Java**, **MySQL**, and **HTML/CSS UI** for admin & customer interfaces.  
+> 🧠 Built with **JavaScript**, **MySQL**, and **HTML/CSS UI** for admin & customer interfaces.  
 
 🔗 *More projects coming soon! Stay tuned...*
 
