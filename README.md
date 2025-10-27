@@ -5,10 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Passionate+Computer+Engineering+Student;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me  
