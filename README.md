@@ -5,8 +5,6 @@
 
 ---
 
----
-
 ## 🧑‍💻 About Me  
 🎓 I'm a **Computer Engineering student** passionate about software and web development.  
 💡 Skilling in **Java**, **Web Technologies**, and **Database Management**.  
