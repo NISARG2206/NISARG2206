@@ -18,7 +18,7 @@
 <div align="center">
 
   <!-- CUSTOMIZE: Change text, colors, or font as needed -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%E2%9C%A8+Hello%2C+I'm+Nisarg+Patel;CS+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%E2%9C%A8+Hello%2C+I'm+Nisarg+Patel;CE+Student+%7C+Full-Stack+Developer" alt="Typing SVG Header" />
 
 
 </div>
